@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\molefi.ngankane\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\molefi.ngankane\\.nuget\\packages"
+    ]
+  }
+}
