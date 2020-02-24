@@ -10,7 +10,7 @@ namespace GradeBook
                 Console.WriteLine($"Hello, {args[0]} !");
             }else{
             //String interpolation
-                Console.WriteLine("Hello !");
+                Console.WriteLine("Hello!");
             }//if else-if
         }
     }
